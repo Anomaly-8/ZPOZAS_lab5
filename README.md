@@ -17,7 +17,7 @@
 
 ## Практическая часть (DAST-анализ)
 
-1) Анализ уязвимого файла с помощью библиотек python "Flask==2.3.3" и "requests==2.31.0" (http://localhost:5000)
+1) Приложение
 
 <img width="681" height="588" alt="image" src="https://github.com/user-attachments/assets/c77d2c2b-9028-4c5c-8e12-af31aeea991a" /> 
 <img width="496" height="230" alt="image" src="https://github.com/user-attachments/assets/3884ab15-3306-4d45-a46e-b1ea35c03b70" />
