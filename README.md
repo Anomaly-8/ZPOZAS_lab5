@@ -19,12 +19,9 @@
 
 1) Анализ уязвимого файла с помощью библиотек python "Flask==2.3.3" и "requests==2.31.0" (http://localhost:5000)
 
-<img width="681" height="588" alt="image" src="https://github.com/user-attachments/assets/c77d2c2b-9028-4c5c-8e12-af31aeea991a" />
-<img width="496" height="230" alt="image" src="https://github.com/user-attachments/assets/3884ab15-3306-4d45-a46e-b1ea35c03b70" />
-<img width="556" height="221" alt="image" src="https://github.com/user-attachments/assets/8aae23ee-145a-4bc5-9e58-b0cbc145f2a8" />
-<img width="524" height="310" alt="image" src="https://github.com/user-attachments/assets/a34573f3-ea2d-4452-a579-8573f3657735" />
-<img width="563" height="269" alt="image" src="https://github.com/user-attachments/assets/a7d191fb-5499-4e8b-83e0-a5e8c15c72fa" />
-<img width="639" height="295" alt="image" src="https://github.com/user-attachments/assets/f49f9865-0321-43e4-8a83-3241961b45c0" />
+<img width="681" height="588" alt="image" src="https://github.com/user-attachments/assets/c77d2c2b-9028-4c5c-8e12-af31aeea991a" /> <img width="496" height="230" alt="image" src="https://github.com/user-attachments/assets/3884ab15-3306-4d45-a46e-b1ea35c03b70" />
+<img width="556" height="221" alt="image" src="https://github.com/user-attachments/assets/8aae23ee-145a-4bc5-9e58-b0cbc145f2a8" /> <img width="524" height="310" alt="image" src="https://github.com/user-attachments/assets/a34573f3-ea2d-4452-a579-8573f3657735" />
+<img width="563" height="269" alt="image" src="https://github.com/user-attachments/assets/a7d191fb-5499-4e8b-83e0-a5e8c15c72fa" /> <img width="639" height="295" alt="image" src="https://github.com/user-attachments/assets/f49f9865-0321-43e4-8a83-3241961b45c0" />
 <img width="903" height="285" alt="image" src="https://github.com/user-attachments/assets/fb34ce3b-a7f0-40d4-9c06-3c85e5190d82" />
 
 2) 
