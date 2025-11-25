@@ -32,6 +32,7 @@
 <img width="891" height="790" alt="image" src="https://github.com/user-attachments/assets/f55a0b5d-c18c-42d4-8c04-e7833ad71d5b" />
 <img width="813" height="465" alt="image" src="https://github.com/user-attachments/assets/4411aafa-f65f-48e9-bd94-56fbc2b2edb6" />
 <img width="1281" height="285" alt="image" src="https://github.com/user-attachments/assets/f6f58371-0fc2-4a53-89d7-4cd7ec3d4175" />
+<img width="406" height="104" alt="image" src="https://github.com/user-attachments/assets/e912a859-4589-48a9-8bbb-d91be3864117" />
 
 
 ## Практическая часть (триаж уязвимостей)
