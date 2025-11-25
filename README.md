@@ -27,7 +27,11 @@
 <img width="639" height="295" alt="image" src="https://github.com/user-attachments/assets/f49f9865-0321-43e4-8a83-3241961b45c0" />
 <img width="903" height="285" alt="image" src="https://github.com/user-attachments/assets/fb34ce3b-a7f0-40d4-9c06-3c85e5190d82" />
 
-2) 
+2) Анализ уязвимого файла с помощью OWASP ZAP
+<img width="808" height="573" alt="image" src="https://github.com/user-attachments/assets/daaea0a4-4a4c-4020-b674-195e6a356799" />
+<img width="891" height="790" alt="image" src="https://github.com/user-attachments/assets/f55a0b5d-c18c-42d4-8c04-e7833ad71d5b" />
+<img width="813" height="465" alt="image" src="https://github.com/user-attachments/assets/4411aafa-f65f-48e9-bd94-56fbc2b2edb6" />
+<img width="1281" height="285" alt="image" src="https://github.com/user-attachments/assets/f6f58371-0fc2-4a53-89d7-4cd7ec3d4175" />
 
 
 ## Практическая часть (триаж уязвимостей)
