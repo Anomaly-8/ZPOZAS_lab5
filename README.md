@@ -5,10 +5,12 @@
 <img width="1277" height="834" alt="image" src="https://github.com/user-attachments/assets/4b884b85-14ad-4b2a-8919-c2f2b504914c" />
 <img width="1277" height="612" alt="image" src="https://github.com/user-attachments/assets/2c69f9bd-e3e2-43bd-b18f-4de68982cbee" />
 
-2) Анализ уязвимого файла с помощью утилиты SonarQube
-<img width="1287" height="931" alt="image" src="https://github.com/user-attachments/assets/e7bb2c41-f546-4d77-8333-7e94ebda49d6" />
+2) Анализ уязвимого файла с помощью других утилит
+В нашем случае не получилось просканировать уязвимый файл с помощью альтернативных средств, таких как, semgrep (при использовании различных аргументов команды, одни и те же ошибки "permission denied" или "read time out"), или SonarQube (при генерации токена оперативная память была критически перегружена, что повлекло за собой прекращение работы виртуальной машины).
+<img width="1109" height="858" alt="image" src="https://github.com/user-attachments/assets/61b3537a-f346-422d-a329-bc4f8b8225dc" />
 
-
+3) Сравнительный анализ.
+Поскольку на установку и использование утилиты bandit ушло ЗНАЧИТЕЛЬНО меньше времени и ресурсов машины чем на semgrep или SonarQube, которые в конечном итоге даже не привели результаты своей работы, очевидный ввод - bandit является самой лучшей программой для SAST-анализа.
 ## Практическая часть (DAST-анализ)
 
 
