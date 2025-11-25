@@ -5,6 +5,9 @@
 <img width="1277" height="834" alt="image" src="https://github.com/user-attachments/assets/4b884b85-14ad-4b2a-8919-c2f2b504914c" />
 <img width="1277" height="612" alt="image" src="https://github.com/user-attachments/assets/2c69f9bd-e3e2-43bd-b18f-4de68982cbee" />
 
+2) Анализ уязвимого файла с помощью утилиты SonarQube
+<img width="1287" height="931" alt="image" src="https://github.com/user-attachments/assets/e7bb2c41-f546-4d77-8333-7e94ebda49d6" />
+
 
 ## Практическая часть (DAST-анализ)
 
