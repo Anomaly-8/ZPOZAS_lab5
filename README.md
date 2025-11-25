@@ -1,17 +1,36 @@
 # Лабораторная работа №5. Методологии SAST и DAST. Триаж уязвимостей
 ## Практическая часть (SAST-анализ)
 
-1) Анализ уязвимого файла с помощью утилиты bandit
+1) Анализ уязвимого файла с помощью утилиты bandit.
+
 <img width="1277" height="834" alt="image" src="https://github.com/user-attachments/assets/4b884b85-14ad-4b2a-8919-c2f2b504914c" />
 <img width="1277" height="612" alt="image" src="https://github.com/user-attachments/assets/2c69f9bd-e3e2-43bd-b18f-4de68982cbee" />
 
-2) Анализ уязвимого файла с помощью других утилит
-В нашем случае не получилось просканировать уязвимый файл с помощью альтернативных средств, таких как, semgrep (при использовании различных аргументов команды, одни и те же ошибки "permission denied" или "read time out"), или SonarQube (при генерации токена оперативная память была критически перегружена, что повлекло за собой прекращение работы виртуальной машины).
+3) Анализ уязвимого файла с помощью других утилит.
+
+В нашем случае не получилось просканировать уязвимый файл с помощью альтернативных средств, таких как semgrep (при использовании различных аргументов команды сканирования происходили одни и те же ошибки "permission denied" или "read time out") или SonarQube (при генерации токена оперативная память была критически перегружена, что повлекло за собой прекращение работы виртуальной машины).
 <img width="1109" height="858" alt="image" src="https://github.com/user-attachments/assets/61b3537a-f346-422d-a329-bc4f8b8225dc" />
 
 3) Сравнительный анализ.
-Поскольку на установку и использование утилиты bandit ушло ЗНАЧИТЕЛЬНО меньше времени и ресурсов машины чем на semgrep или SonarQube, которые в конечном итоге даже не привели результаты своей работы, очевидный ввод - bandit является самой лучшей программой для SAST-анализа.
+
+Поскольку на установку и использование утилиты bandit ушло ЗНАЧИТЕЛЬНО меньше времени и ресурсов машины чем на semgrep или SonarQube (которые в конечном итоге даже не привели результаты своей работы), очевидный ввод - bandit является самой лучшей программой для SAST-анализа.
+
 ## Практическая часть (DAST-анализ)
+
+1) Анализ уязвимого файла с помощью библиотек python "Flask==2.3.3" и "requests==2.31.0" (http://localhost:5000)
+
+<img width="681" height="588" alt="image" src="https://github.com/user-attachments/assets/c77d2c2b-9028-4c5c-8e12-af31aeea991a" />
+<img width="496" height="230" alt="image" src="https://github.com/user-attachments/assets/3884ab15-3306-4d45-a46e-b1ea35c03b70" />
+<img width="556" height="221" alt="image" src="https://github.com/user-attachments/assets/8aae23ee-145a-4bc5-9e58-b0cbc145f2a8" />
+<img width="524" height="310" alt="image" src="https://github.com/user-attachments/assets/a34573f3-ea2d-4452-a579-8573f3657735" />
+<img width="563" height="269" alt="image" src="https://github.com/user-attachments/assets/a7d191fb-5499-4e8b-83e0-a5e8c15c72fa" />
+<img width="639" height="295" alt="image" src="https://github.com/user-attachments/assets/f49f9865-0321-43e4-8a83-3241961b45c0" />
+<img width="903" height="285" alt="image" src="https://github.com/user-attachments/assets/fb34ce3b-a7f0-40d4-9c06-3c85e5190d82" />
+
+2) 
 
 
 ## Практическая часть (триаж уязвимостей)
+
+
+
