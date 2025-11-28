@@ -32,10 +32,10 @@
 <img width="891" height="790" alt="image" src="https://github.com/user-attachments/assets/f55a0b5d-c18c-42d4-8c04-e7833ad71d5b" />
 <img width="813" height="465" alt="image" src="https://github.com/user-attachments/assets/4411aafa-f65f-48e9-bd94-56fbc2b2edb6" />
 <img width="620" height="281" alt="image" src="https://github.com/user-attachments/assets/a6ad0edd-641b-4c2f-866e-7da69d57b433" />
-<img width="803" height="537" alt="image" src="https://github.com/user-attachments/assets/2387c0ff-d95b-496a-ad8d-09c793b4684f" />
 
 Скан и Фаззинг
 
+<img width="803" height="537" alt="image" src="https://github.com/user-attachments/assets/2387c0ff-d95b-496a-ad8d-09c793b4684f" />
 <img width="894" height="314" alt="image" src="https://github.com/user-attachments/assets/306f5cb9-974e-403c-ac0c-b5dfc8e86ebd" />
 <img width="1137" height="196" alt="image" src="https://github.com/user-attachments/assets/14bb6ac8-0e73-41d0-a631-0894eee2d2ee" />
 
