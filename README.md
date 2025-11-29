@@ -6,7 +6,7 @@
 <img width="1277" height="834" alt="image" src="https://github.com/user-attachments/assets/4b884b85-14ad-4b2a-8919-c2f2b504914c" />
 <img width="1277" height="612" alt="image" src="https://github.com/user-attachments/assets/2c69f9bd-e3e2-43bd-b18f-4de68982cbee" />
 
-3) Анализ уязвимого файла с помощью других утилит.
+2) Анализ уязвимого файла с помощью других утилит.
 
 В нашем случае не получилось просканировать уязвимый файл с помощью альтернативных средств, таких как semgrep (при использовании различных аргументов команды сканирования происходили одни и те же ошибки "permission denied" или "read time out") или SonarQube (при генерации токена оперативная память была критически перегружена, что повлекло за собой прекращение работы виртуальной машины).
 <img width="1109" height="858" alt="image" src="https://github.com/user-attachments/assets/61b3537a-f346-422d-a329-bc4f8b8225dc" />
@@ -41,7 +41,7 @@
 
 ## Практическая часть (триаж уязвимостей)
 
-Скан с помощью nuclei
+### Скан с помощью nuclei
 
 <img width="814" height="527" alt="image" src="https://github.com/user-attachments/assets/136c0cd8-184a-438c-8443-e72c1e315710" />
 <img width="821" height="543" alt="image" src="https://github.com/user-attachments/assets/cbca4775-ca4d-41f4-ab60-6052b2e59444" />
